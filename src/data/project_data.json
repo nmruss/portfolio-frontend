@@ -1,0 +1,18 @@
+[
+    { 
+        "title": "St Jude Hall of Heroes",
+        "thumbnail": "/img/content/st_jude_thumbnail.jpg",
+        "type":"Website",
+        "role":"Frontend Developer",
+        "tech":["React", "Javascript"],
+        "summary":"Showcasing an AR / VR experience for ST Jude Children's Research Hospital"
+    },
+    { 
+        "title": "Knock ALS Out of the Park",
+        "thumbnail": "/img/content/knock_als_thumbnail.jpg",
+        "type":"Website",
+        "role":"Frontend Developer",
+        "tech":["React", "Javascript"],
+        "summary":"Promoting MLB partnership with ALS research foundation"
+    }
+]
