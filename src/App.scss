@@ -1,0 +1,52 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Source Code Pro", monospace;
+}
+
+.regular {
+  font-weight: 500;
+}
+
+.black {
+  font-weight: 700;
+}
+
+.header-container {
+  text-align: center;
+}
+
+#header {
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  div {
+    width: 100%;
+  }
+
+  h1 {
+    color: black;
+    margin: 0;
+  }
+}
+
+@keyframes blinkAnim {
+  0% {
+    opacity: 100%;
+  }
+  50% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+.blink {
+  animation: blinkAnim 1.5s steps(1) infinite;
+}

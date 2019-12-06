@@ -1,0 +1,4 @@
+{
+  "extends": "react-app",
+  "rules": { "no-octal-escape": 0 }
+}
