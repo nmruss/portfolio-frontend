@@ -7,7 +7,9 @@
         "role":"Frontend Developer",
         "tech":["React", "Javascript"],
         "summary":"Showcasing an AR / VR experience for ST Jude Children's Research Hospital, we created an online portal to make the experience more accessible to those not able to attend the in-person exhibition.",
-        "links":[""]
+        "links":[""],
+        "images":[""],
+        "shortname":"stjude"
     },
     { 
         "id":4,
@@ -18,7 +20,8 @@
         "tech":["React", "Javascript"],
         "summary":"Website promoting antibullying initiatives. The site prompts you to watch a tragic video, after which you are prompted to watch the same video over again and you are texted another, hidden side of the story.",
         "links":["http://the-epidemic.com/"],
-        "images":["https://www.youtube.com/watch?v=f2NVD7tSipY","https://www.prnewswire.com/news-releases/monica-lewinsky-launches-powerful-the-epidemic-campaign--psa-for-octobers-anti-bullying-month-300939588.html","https://www.cnn.com/2019/10/17/health/anti-bullying-psa-monica-lewinsky-epidemic-video-wellness-trnd/index.html"]
+        "images":["https://www.youtube.com/watch?v=f2NVD7tSipY","https://www.prnewswire.com/news-releases/monica-lewinsky-launches-powerful-the-epidemic-campaign--psa-for-octobers-anti-bullying-month-300939588.html","https://www.cnn.com/2019/10/17/health/anti-bullying-psa-monica-lewinsky-epidemic-video-wellness-trnd/index.html"],
+        "shortname":"epidemic"
     },
     { 
         "id":6,
@@ -29,7 +32,8 @@
         "tech":["React Native", "iOS", "Android","Javascript"],
         "summary":"Native App across iOS and Android, built using React Native. The app provided an internal communications platform for senior management as well as a work catalog and in-office room booking features. The app was fully custom built with a custom web cms and api.",
         "links":[],
-        "images":[]
+        "images":[],
+        "shortname":"bbdoon"
     },
     { 
         "id":2,
@@ -40,7 +44,8 @@
         "tech":["React", "Javascript"],
         "summary":"Promoting MLB partnership with ALS research foundation, this site allows users to generate a custom image using their current distance from a favorite MLB team's home plate and post the result to social media.",
         "links":["https://donateals.org/","https://www.facebook.com/watch/?v=508080783351161","https://youtu.be/OKMn1kzblr4","https://donateals.org/","https://www.thedrum.com/creative-works/project/bbdo-ny-mlb-knock-als-out-the-park"],
-        "images":[]
+        "images":[],
+        "shortname":"knockals"
     },
     { 
         "id":3,
@@ -62,7 +67,8 @@
         "tech":["Nodejs", "React", "Javascript"],
         "summary":"Worked with Columbia Records to promote rapper Russ' tour. Built a website that (as closely as possible) measured your heartbeat via gyroscope and recommended Russ songs for you based on your reading.",
         "links":["https://clios.com/music/winner/innovation/columbia-records/rpm-russ-per-minute-26305","https://winners.webbyawards.com/2018/apps-mobile-and-voice/apps-mobile-features/experimental-innovation/44637/columbia-records-rpm-russ-per-minute","https://www.oneclub.org/awards/youngguns/-award/28545/russ-per-minute","https://www.adforum.com/creative-work/ad/player/34559079/rpm-russ-per-minute/columbia-records"],
-        "images":[]
+        "images":[],
+        "shortname":"rpm"
     },
     { 
         "id":9,
@@ -73,7 +79,8 @@
         "tech":["Construct 3", "Javascript"],
         "summary":"Built a game promoting the March for Our Lives initiative in support of gun control.",
         "links":["http://gameforourlives.com/"],
-        "images":[]
+        "images":[],
+        "shortname":"gameforourlives"
     },
     { 
         "id":8,
@@ -82,9 +89,10 @@
         "type":"Website",
         "role":"Front End Developer",
         "tech":["React Native", "iOS", "Android","Javascript"],
-        "summary":"Built a website promoting the International Rescue Council. The site tells a story about the global refugee crisis through your browser history bar, and provides links for how you can help.",
+        "summary":"Built a website promoting the International Rescue Committee. The site tells a story about the global refugee crisis through your browser history bar, and provides links for how you can help.",
         "links":[],
-        "images":[]
+        "images":[],
+        "shortname":"irc"
     },
     { 
         "id":9,
@@ -94,7 +102,8 @@
         "role":"Front End Developer",
         "tech":["React Native", "iOS", "Android","Javascript"],
         "summary":"Built a website for an art gallery in Philadelphia showcasing art on knee pads to support athletes' voices. The pieces were viewable on the site and sold at auction online and in person at a weekend event.",
-        "links":["https://www.rescue.org/"],
-        "images":[]
+        "links":[""],
+        "images":[],
+        "shortname":"takp"
     }
 ]

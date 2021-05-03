@@ -66,6 +66,7 @@ p {
 
 .content-card-container {
   text-align: left;
+  padding:20px 0px;
 
   h1 {
     font-size: 30px;
@@ -75,6 +76,14 @@ p {
   }
   img {
     width: 100%;
+  }
+  a {
+    text-decoration:none;
+    color:white;
+  }
+  a:hover{
+    color:gray;
+    text-decoration:none;
   }
 }
 

@@ -7,12 +7,12 @@ const Content = () => {
   function renderContent() {
     let contentCards = [];
     projectData.forEach((project, ind, arr) => {
-      const { title, thumbnail, role, type } = project;
+      const {id,title,thumbnail,role,type,shortname} = project; 
       contentCards.push(
         <Row>
           <Col md="2"></Col>
           <Col md="8">
-            <ContentCard title={title} thumbnail={thumbnail} role={role} type={type} />
+            <ContentCard id={id} title={title} thumbnail={thumbnail} role={role} type={type} />
           </Col>
           <Col md="2"></Col>
         </Row>
