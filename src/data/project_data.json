@@ -16,7 +16,7 @@
         "title": "The Epidemic",
         "thumbnail": "/img/content/the_epidemic_thumbnail.jpg",
         "type":"Website",
-        "role":"Front End Developer",
+        "role":"Frontend Developer",
         "tech":["React", "Javascript"],
         "summary":"Website promoting antibullying initiatives. The site prompts you to watch a tragic video, after which you are prompted to watch the same video over again and you are texted another, hidden side of the story.",
         "links":["http://the-epidemic.com/"],
@@ -28,7 +28,7 @@
         "title": "BBDOON Native App",
         "thumbnail": "/img/content/bbdoon_thumbnail.jpg",
         "type":"Native App",
-        "role":"Front End Developer",
+        "role":"Frontend Developer",
         "tech":["React Native", "iOS", "Android","Javascript"],
         "summary":"Native App across iOS and Android, built using React Native. The app provided an internal communications platform for senior management as well as a work catalog and in-office room booking features. The app was fully custom built with a custom web cms and api.",
         "links":[],
@@ -56,7 +56,8 @@
         "tech":["Construct 3", "Javascript"],
         "summary":"Promoting AT&T's new 5G service, we created a series of spyhunter inspired HTML5 games. Elliciting some hilariously bad reviews.",
         "links":["https://www.theverge.com/2019/5/20/18632457/at-t-5g-e-game-data-drive-spy-hunter-bad","https://www.pcmag.com/news/play-atts-new-silly-lte-speed-video-game"],
-        "images":[]
+        "images":[],
+        "shortname":"datadrivegame"
     },
     { 
         "id":7,
@@ -99,7 +100,7 @@
         "title": "Take a Knee Pad Site",
         "thumbnail": "/img/content/takp_thumbnail.jpg",
         "type":"Website",
-        "role":"Front End Developer",
+        "role":"Frontend Developer",
         "tech":["React Native", "iOS", "Android","Javascript"],
         "summary":"Built a website for an art gallery in Philadelphia showcasing art on knee pads to support athletes' voices. The pieces were viewable on the site and sold at auction online and in person at a weekend event.",
         "links":[""],

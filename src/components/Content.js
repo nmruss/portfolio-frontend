@@ -9,10 +9,10 @@ const Content = () => {
     projectData.forEach((project, ind, arr) => {
       const {id,title,thumbnail,role,type,shortname} = project; 
       contentCards.push(
-        <Row>
+        <Row key={"content" + ind}>
           <Col md="2"></Col>
           <Col md="8">
-            <ContentCard id={id} title={title} thumbnail={thumbnail} role={role} type={type} />
+            <ContentCard id={id} title={title} thumbnail={thumbnail} role={role} type={type} shortname={shortname}/>
           </Col>
           <Col md="2"></Col>
         </Row>
