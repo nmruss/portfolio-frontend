@@ -102,3 +102,31 @@ p {
 .blink {
   animation: blinkAnim 1.5s steps(1) infinite;
 }
+
+
+///DETAIL PAGES///
+.content-detail-container,.detail-header-image{
+  height:500px;
+}
+
+.detail-header-image{
+  background-size:cover;
+  background-position:center;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  .title{
+    color:white;
+  }
+}
+
+.detail-info-container{
+  margin-top:100px;
+  padding-bottom:100px;
+}
+
+.detail-image-container{
+  text-align:center;
+  padding:80px 0;
+}

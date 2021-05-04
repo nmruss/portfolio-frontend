@@ -15,12 +15,13 @@
         "id":2,
         "title": "The Epidemic",
         "thumbnail": "/img/content/the_epidemic_thumbnail.jpg",
+        "detail_header":"/img/content/the_epidemic/header.jpg",
         "type":"Website",
         "role":"Frontend Developer",
         "tech":["React", "Javascript"],
-        "summary":"Website promoting antibullying initiatives. The site prompts you to watch a tragic video, after which you are prompted to watch the same video over again and you are texted another, hidden side of the story.",
-        "links":["http://the-epidemic.com/"],
-        "images":["https://www.youtube.com/watch?v=f2NVD7tSipY","https://www.prnewswire.com/news-releases/monica-lewinsky-launches-powerful-the-epidemic-campaign--psa-for-octobers-anti-bullying-month-300939588.html","https://www.cnn.com/2019/10/17/health/anti-bullying-psa-monica-lewinsky-epidemic-video-wellness-trnd/index.html"],
+        "summary":"This was a website created in collaboration with Monica Lewinsky and her antibullying initiatives. The site prompts you to watch a tragic video, after which you are prompted to watch the same video over again and you are texted another, hidden side of the story.",
+        "links":["http://the-epidemic.com/","https://www.youtube.com/watch?v=f2NVD7tSipY","https://www.prnewswire.com/news-releases/monica-lewinsky-launches-powerful-the-epidemic-campaign--psa-for-octobers-anti-bullying-month-300939588.html","https://www.cnn.com/2019/10/17/health/anti-bullying-psa-monica-lewinsky-epidemic-video-wellness-trnd/index.html"],
+        "images":["/img/content/the_epidemic/additional_1.jpg"],
         "shortname":"epidemic"
     },
     { 
