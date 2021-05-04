@@ -28,12 +28,21 @@ const Detail = ({match})=>{
 
     const renderLinks = ()=>{
         let linkList = [];
-        if(content.links){
+        if(content.links && content.links !== []){
             content.links.forEach((l,ind,arr)=>{
                 linkList.push(<div><a rel="noopener noreferrer" target="_blank" href={l}>{l}</a></div>);
-            }) 
+            })
+            if(linkList.length > 0)
+            {
+                return (
+                    <div>
+                        <b>Links:</b>
+                        {linkList}
+                    </div>
+                );
+            }
         }
-        return linkList;
+        return "";
     }
     
     return(
@@ -59,7 +68,7 @@ const Detail = ({match})=>{
                         <p>Role: {content.role}</p>
                         <p>Project Type: {content.type}</p>
                         <p>{renderTechnologies()}</p>
-                        <p><b>Links:</b> {renderLinks()}</p>
+                        <p>{renderLinks()}</p>
                     </Col>
                 </Row>
             </Container>
