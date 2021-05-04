@@ -40,12 +40,13 @@
         "id":4,
         "title": "Sing Bon Jovi",
         "thumbnail": "/img/content/sing_bon_jovi_thumbnail.jpg",
+        "detail_header":"/img/content/sing_bon_jovi/header.jpg",
         "type":"Website",
         "role":"Frontend Developer",
         "tech":["React", "Javascript"],
         "summary":"Promoting Jon Bon Jovi's new single 'Limitless', we created a site that allowed you to record and submit your own version of the song. The best performance got a chance to sing on stage with the artist himself. Submissions were gathered and posted on social media on the week of the songs release.",
-        "links":["https://www.bonjovi.com/blogs/news/preview-new-single-limitless-win-a-chance-to-sing-it-live-with-jbj","https://ultimateclassicrock.com/bon-jovi-limitless-promotion/","https://nightswithalicecooper.com/2020/02/10/bon-jovi-asking-fans-to-sing-new-track-limitless/"],
-        "images":[],
+        "links":["https://www.bonjovi.com/blogs/news/preview-new-single-limitless-win-a-chance-to-sing-it-live-with-jbj","https://ultimateclassicrock.com/bon-jovi-limitless-promotion/","https://nightswithalicecooper.com/2020/02/10/bon-jovi-asking-fans-to-sing-new-track-limitless/","https://www.thestable.com.au/bbdo-ny-sing-like-bon-jovi-to-hear-the-band-sing/"],
+        "images":["/img/content/sing_bon_jovi/additional_1.jpg"],
         "shortname":"singjbj"
     },
     { 
@@ -76,12 +77,13 @@
         "id":7,
         "title": "Russ Per Minute",
         "thumbnail": "/img/content/rpm_thumbnail.jpg",
+        "detail_header":"/img/content/rpm/header.jpg",
         "type":"Website",
-        "role":"Full Stack Developer",
+        "role":"Frontend Developer",
         "tech":["Nodejs", "React", "Javascript"],
         "summary":"Worked with Columbia Records to promote rapper Russ' tour. Built a website that (as closely as possible) measured your heartbeat via gyroscope and recommended Russ songs for you based on your reading.",
         "links":["https://clios.com/music/winner/innovation/columbia-records/rpm-russ-per-minute-26305","https://winners.webbyawards.com/2018/apps-mobile-and-voice/apps-mobile-features/experimental-innovation/44637/columbia-records-rpm-russ-per-minute","https://www.oneclub.org/awards/youngguns/-award/28545/russ-per-minute","https://www.adforum.com/creative-work/ad/player/34559079/rpm-russ-per-minute/columbia-records"],
-        "images":[],
+        "images":["/img/content/rpm/additional_1.jpg"],
         "shortname":"rpm"
     },
     { 
