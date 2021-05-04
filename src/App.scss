@@ -130,3 +130,11 @@ p {
   text-align:center;
   padding:80px 0;
 }
+
+@media screen and (max-width:600px){
+  .detail-image-container{
+    img{
+      width:100%;
+    }
+  }
+}
