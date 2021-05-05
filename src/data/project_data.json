@@ -3,12 +3,13 @@
         "id":1,
         "title": "St Jude Hall of Heroes",
         "thumbnail": "/img/content/st_jude_thumbnail.jpg",
+        "detail_header":"/img/content/stjude/header.jpg",
         "type":"Website",
         "role":"Frontend Developer",
         "tech":["React", "Javascript"],
         "summary":"Showcasing an AR / VR experience for ST Jude Children's Research Hospital, we created an online portal to make the experience more accessible to those not able to attend the in-person exhibition.",
-        "links":[""],
-        "images":[""],
+        "links":["https://www.youtube.com/watch?v=4LCSTT3v1GU","https://www.youtube.com/watch?v=L6m79wqNiMA","https://experience.stjude.org/VR/HallOfHeroes/index.html"],
+        "images":["/img/content/stjude/additional_1.jpg"],
         "shortname":"stjude"
     },
     { 
@@ -23,18 +24,6 @@
         "links":["http://the-epidemic.com/","https://www.youtube.com/watch?v=f2NVD7tSipY","https://www.prnewswire.com/news-releases/monica-lewinsky-launches-powerful-the-epidemic-campaign--psa-for-octobers-anti-bullying-month-300939588.html","https://www.cnn.com/2019/10/17/health/anti-bullying-psa-monica-lewinsky-epidemic-video-wellness-trnd/index.html"],
         "images":["/img/content/the_epidemic/additional_1.jpg"],
         "shortname":"epidemic"
-    },
-    { 
-        "id":3,
-        "title": "BBDOON Native App",
-        "thumbnail": "/img/content/bbdoon_thumbnail.jpg",
-        "type":"Native App",
-        "role":"Frontend Developer",
-        "tech":["React Native", "iOS", "Android","Javascript"],
-        "summary":"Native App across iOS and Android, built using React Native. The app provided an internal communications platform for senior management as well as a work catalog and in-office room booking features. The app was fully custom built with a custom web cms and api.",
-        "links":[],
-        "images":[],
-        "shortname":"bbdoon"
     },
     { 
         "id":4,
@@ -62,6 +51,19 @@
         "shortname":"knockals"
     },
     { 
+        "id":3,
+        "title": "BBDOON Native App",
+        "thumbnail": "/img/content/bbdoon_thumbnail.jpg",
+        "detail_header":"/img/content/bbdoon/header.jpg",
+        "type":"Native App",
+        "role":"Frontend Developer",
+        "tech":["React Native", "iOS", "Android","Javascript"],
+        "summary":"Native App across iOS and Android, built using React Native. The app provided an internal communications platform for senior management as well as a work catalog and in-office room booking features. The app was fully custom built with a custom web cms and api.",
+        "links":[],
+        "images":["/img/content/bbdoon/additional_1.jpg"],
+        "shortname":"bbdoon"
+    },
+    { 
         "id":6,
         "title": "AT&T Race Game",
         "thumbnail": "/img/content/att_race_game_thumbnail.jpg",
@@ -69,7 +71,7 @@
         "role":"Developer",
         "tech":["Construct 3", "Javascript"],
         "summary":"Promoting AT&T's new 5G service, we created a series of spyhunter inspired HTML5 games. Elliciting some hilariously bad reviews.",
-        "links":["https://www.theverge.com/2019/5/20/18632457/at-t-5g-e-game-data-drive-spy-hunter-bad","https://www.pcmag.com/news/play-atts-new-silly-lte-speed-video-game"],
+        "links":["https://www.theverge.com/2019/5/20/18632457/at-t-5g-e-game-data-drive-spy-hunter-bad","https://www.pcmag.com/news/play-atts-new-silly-lte-speed-video-game","https://about.att.com/newsroom/2019/att_data_drive.html"],
         "images":[],
         "shortname":"datadrivegame"
     },
