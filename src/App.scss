@@ -10,6 +10,32 @@ p {
   font-family: "Source Code Pro", monospace;
 }
 
+.nav-container{
+  background-color:rgba(255,255,255,.9);
+  height:60px;
+  display:flex;
+  align-items: center;
+  position:fixed;
+  width:100%;
+  z-index:1;
+}
+
+.nav{
+  font-size:16pt;
+  display:flex;
+  justify-content: space-around;
+  width:20%;
+  margin:0 auto;
+  
+  a{
+    color:black;
+    display:flex;
+  }
+  a:hover{
+    color:gray;
+  }
+}
+
 .regular {
   font-weight: 500;
 }
@@ -50,6 +76,7 @@ p {
   color: white;
   background-color: black;
   text-align: right;
+  padding-top:60px;
 
   h1 {
     font-size: 30px;
@@ -107,6 +134,9 @@ p {
 ///DETAIL PAGES///
 .content-detail-container,.detail-header-image{
   height:500px;
+}
+.content-detail-container{
+  padding-top:60px;
 }
 
 .detail-header-image{

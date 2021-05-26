@@ -37,8 +37,6 @@ const Content = () => {
                 websites
                 <br />
                 games
-                <br />
-                apis
               </h1>
             </div>
           </div>

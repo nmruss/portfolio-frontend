@@ -4,7 +4,7 @@ import { Container, Row, Col } from "reactstrap";
 const ContentCard = ({ title, thumbnail, role, summary, id, shortname}) => {
   return (
     <Container fluid className="content-card-container">
-      <a href={"/" + shortname}>
+      <a href={"/detail/" + shortname}>
         <Row>
           <Col md="6">
             <img src={thumbnail} alt={"thumbnail-" + title}></img>
