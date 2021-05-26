@@ -22,7 +22,7 @@ const Contact =()=>{
                 </Row>
                 <Row>
                     <Col>
-                        <a target="_blank" href="https://github.com/nmruss"><h4>resume</h4></a>
+                        <a target="_blank" href="./Nick_Russo_Resume.pdf"><h4>resume</h4></a>
                     </Col>
                 </Row>
                 
