@@ -42,12 +42,13 @@
         "id":5,
         "title": "Knock ALS Out of the Park",
         "thumbnail": "/img/content/knock_als_thumbnail.jpg",
+        "detail_header":"/img/content/knock_als/header.jpg",
         "type":"Website",
         "role":"Frontend Developer",
         "tech":["React", "Javascript"],
         "summary":"Promoting MLB partnership with ALS research foundation, this site allows users to generate a custom image using their current distance from a favorite MLB team's home plate and post the result to social media.",
         "links":["https://donateals.org/","https://www.facebook.com/watch/?v=508080783351161","https://youtu.be/OKMn1kzblr4","https://donateals.org/","https://www.thedrum.com/creative-works/project/bbdo-ny-mlb-knock-als-out-the-park"],
-        "images":[],
+        "images":["/img/content/knock_als/additional_1.jpg"],
         "shortname":"knockals"
     },
     { 
@@ -93,12 +94,13 @@
         "id":8,
         "title": "Game for Our Lives",
         "thumbnail": "/img/content/game_for_our_lives_thumbnail.jpg",
+        "detail_header":"/img/content/gameforourlives/header.jpg",
         "type":"Game",
         "role":"Developer",
         "tech":["Construct 3", "Javascript"],
         "summary":"Built a game promoting the March for Our Lives initiative in support of gun control.",
         "links":["http://gameforourlives.com/"],
-        "images":[],
+        "images":["/img/content/gameforourlives/additional_1.jpg"],
         "shortname":"gameforourlives"
     },
     { 
