@@ -106,25 +106,27 @@
     { 
         "id":9,
         "title": "International Rescue Committee Website",
+        "detail_header":"/img/content/irc/header.jpg",
         "thumbnail": "/img/content/irc_thumbnail.jpg",
         "type":"Website",
         "role":"Front End Developer",
-        "tech":["React Native", "iOS", "Android","Javascript"],
+        "tech":["HTML","CSS","Javascript"],
         "summary":"Built a website promoting the International Rescue Committee. The site tells a story about the global refugee crisis through your browser history bar, and provides links for how you can help.",
         "links":[],
-        "images":[],
+        "images":["/img/content/irc/additional_1.jpg"],
         "shortname":"irc"
     },
     { 
         "id":10,
         "title": "Take a Knee Pad Site",
         "thumbnail": "/img/content/takp_thumbnail.jpg",
+        "detail_header":"/img/content/takp/header.jpg",
         "type":"Website",
         "role":"Frontend Developer",
-        "tech":["React Native", "iOS", "Android","Javascript"],
+        "tech":["React","Javascript"],
         "summary":"Built a website for an art gallery in Philadelphia showcasing art on knee pads to support athletes' voices. The pieces were viewable on the site and sold at auction online and in person at a weekend event.",
-        "links":[""],
-        "images":[],
+        "links":["https://www.inquirer.com/philly/entertainment/kaepernick-art-exhibit-take-a-knee-pad-arch-enemy-20180905.html"],
+        "images":["/img/content/takp/additional_1.jpg"],
         "shortname":"takp"
     }
 ]
